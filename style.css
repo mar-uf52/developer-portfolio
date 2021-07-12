@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* start header-area */
+h1 .name-highlight{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.header-item{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.header-area p{
+    color: dimgray;
+}
+.header-img{
+    width: 100%;
+    padding-top: 20px;
+}
+.header-area{
+    height:500px ;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+/* End header-area */
