@@ -24,7 +24,10 @@ h1{
     padding-top: 20px;
 }
 .header-area{
-    height:500px ;
+    background-image: url(image/top-banner.png);
+    height: 500px;
+    background-repeat: no-repeat;
+
 }
 .button{
     text-decoration: none;
